@@ -2,7 +2,7 @@
 
 Graduado en Derecho, cursando un doble máster en Abogacía y Procura + Derecho Digital (UNIR).
 
-Me muevo entre el Derecho, la automatización y la IA, y estoy aprendiendo ciberseguridad en Hack The Box (usuario: LexRoot).
+Me muevo entre el Derecho, la automatización y la IA, y estoy aprendiendo ciberseguridad en Hack The Box (usuario: lexroot).
 
 ## En qué trabajo
 
